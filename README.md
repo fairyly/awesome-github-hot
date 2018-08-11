@@ -1,9 +1,13 @@
 # awesome-github-hot
 awesome-github-hot
 
+## awesome-github
 
 - 1.awesome：所有极好的资源集合列表
   - GitHub：https://github.com/sindresorhus/awesome
+
+- 1.1awesome-css-cn：CSS 资源大全中文版
+  - GitHub：https://github.com/jobbole/awesome-css-cn
 
 - 2.awesome-vue： vue 极好的资源集合
   - GitHub：https://github.com/vuejs/awesome-vue#readme
@@ -58,9 +62,16 @@ awesome-github-hot
 
 - 14.
 
-- 15.
+- 15.awesome-python: python 资源大全
+  - GitHub：https://github.com/vinta/awesome-python
+  - awesome-remote-job： https://github.com/lukasz-madon/awesome-remote-job
 
-- 16.
+- 15.1awesome-python-cn：Python 资源大全中文版
+  - GitHub：https://github.com/jobbole/awesome-python-cn
+
+
+- 16.awesome-ruby：ruby 资源大全
+  - https://github.com/markets/awesome-ruby
 
 
 - 17.
