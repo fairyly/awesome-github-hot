@@ -17,6 +17,9 @@
 - 1.1.3awesome-javascript-cn：JavaScript 资源大全中文版
   - GitHub：https://github.com/jobbole/awesome-javascript-cn
 
+- 1.1.4awesome-typescript: typescript 资源大全
+  - GitHub：https://github.com/dzharii/awesome-typescript
+
 - 2.awesome-vue： vue 极好的资源集合
   - GitHub：https://github.com/vuejs/awesome-vue#readme
   
