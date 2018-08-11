@@ -67,9 +67,11 @@
   - GitHub：https://github.com/sindresorhus/awesome-nodejs
   - awesome-nodejs-projects： https://github.com/sqreen/awesome-nodejs-projects
 
-- 13.
+- 13.awesome-php: php 资源集合
+  - GitHub：https://github.com/ziadoz/awesome-php
 
-- 14.
+- 14.architect-awesome：后端架构师技术图谱
+  - GitHub：https://github.com/xingshaocheng/architect-awesome
 
 - 15.awesome-python: python 资源大全
   - GitHub：https://github.com/vinta/awesome-python
