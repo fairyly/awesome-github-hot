@@ -67,6 +67,9 @@
   - GitHub：https://github.com/sindresorhus/awesome-nodejs
   - awesome-nodejs-projects： https://github.com/sqreen/awesome-nodejs-projects
 
+- 12.1awesome-npm： npm 资源集合
+  - https://github.com/txd-team/awesome-npm
+
 - 13.awesome-php: php 资源集合
   - GitHub：https://github.com/ziadoz/awesome-php
 
