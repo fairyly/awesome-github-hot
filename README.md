@@ -90,7 +90,8 @@
   - GitHub：https://github.com/veggiemonk/awesome-docker#readme
   - https://awesome-docker.netlify.com/
 
-- 19.
+- 19.awesome-design-patterns：优秀软件与架构设计模式资源包含10种软件架构模式、GoF设计模式、云架构模式、微服务和分布式系统、大数据、数据库等
+  - GitHub：https://github.com/DovAmir/awesome-design-patterns
 
 
 - 20.awesome-spring-cloud: Spring Cood 资源大全 
