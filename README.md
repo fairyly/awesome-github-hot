@@ -12,22 +12,25 @@
 - 1.1.1awesome-css-cn：CSS 资源大全中文版
   - GitHub：https://github.com/jobbole/awesome-css-cn
 
+- 1.1.2awesome-javascript：javascript 资源大全
+  - GitHub：https://github.com/sorrycc/awesome-javascript
+- 1.1.3awesome-javascript-cn：JavaScript 资源大全中文版
+  - GitHub：https://github.com/jobbole/awesome-javascript-cn
+
 - 2.awesome-vue： vue 极好的资源集合
   - GitHub：https://github.com/vuejs/awesome-vue#readme
   
 - 2.1.awesome-github-vue：Vue相关开源项目库汇总（没更新了）
-  - https://github.com/fairyly/awesome-github-vue
+  - GitHub：https://github.com/fairyly/awesome-github-vue
 
 - 2.1.1awesome-nuxt: vue 服务端渲染 nuxt 资源集合
-  - https://github.com/nuxt-community/awesome-nuxt
+  - GitHub：https://github.com/nuxt-community/awesome-nuxt
 
 - 3.awesome-wechat-weapp：微信小程序开发资源汇总
   - GitHub： https://github.com/justjavac/awesome-wechat-weapp
 
 - 4.awesome-flutter： flutter 资源集合
  - GitHub：https://github.com/Solido/awesome-flutter
-
-
 
 - 5.awesome-chrome-devtools：Chrome DevTools 极好的资源集合
   - GitHub：https://github.com/ChromeDevTools/awesome-chrome-devtools#readme
@@ -74,10 +77,11 @@
 
 
 - 16.awesome-ruby：ruby 资源大全
-  - https://github.com/markets/awesome-ruby
+  - GitHub：https://github.com/markets/awesome-ruby
 
 
-- 17.
+- 17.awesome-go: go 资源大全
+  - GitHub：https://github.com/avelino/awesome-go
 
 - 18.awesome-docker: docker 资源大全
   - GitHub：https://github.com/veggiemonk/awesome-docker#readme
