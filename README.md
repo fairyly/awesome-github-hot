@@ -1,12 +1,15 @@
 # awesome-github-hot
-awesome-github-hot
+
 
 ## awesome-github
 
 - 1.awesome：所有极好的资源集合列表
   - GitHub：https://github.com/sindresorhus/awesome
 
-- 1.1awesome-css-cn：CSS 资源大全中文版
+- 1.1awesome-css: CSS 资源大全
+  - GitHub：https://github.com/awesome-css-group/awesome-css
+
+- 1.1.1awesome-css-cn：CSS 资源大全中文版
   - GitHub：https://github.com/jobbole/awesome-css-cn
 
 - 2.awesome-vue： vue 极好的资源集合
