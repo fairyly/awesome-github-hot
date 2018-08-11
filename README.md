@@ -11,6 +11,8 @@ awesome-github-hot
 - 2.1.awesome-github-vue：Vue相关开源项目库汇总（没更新了）
   - https://github.com/fairyly/awesome-github-vue
 
+- 2.1.1awesome-nuxt: vue 服务端渲染 nuxt 资源集合
+  - https://github.com/nuxt-community/awesome-nuxt
 
 - 3.awesome-wechat-weapp：微信小程序开发资源汇总
   - GitHub： https://github.com/justjavac/awesome-wechat-weapp
@@ -36,11 +38,21 @@ awesome-github-hot
 - 9.awesome-bigdata： 大数据极好的资源集合
   - GitHub： https://github.com/onurakpolat/awesome-bigdata#readme
 
-- 10.
+- 10.awesome-react: react 资源集合
+  - GitHub：https://github.com/enaqx/awesome-react
 
-- 11.
+- 10.1awesome-react-native： react-native 资源集合
+  - GitHub：https://github.com/jondot/awesome-react-native
 
-- 12.
+- 10.1.1awesome-react-components：react-components 资源集合
+  - GitHub：https://github.com/brillout/awesome-react-components
+
+- 11.awesome-express： express 资源集合
+  - GitHub：https://github.com/wabg/awesome-express
+
+- 12.awesome-nodejs: nodejs 资源集合
+  - GitHub：https://github.com/sindresorhus/awesome-nodejs
+  - awesome-nodejs-projects： https://github.com/sqreen/awesome-nodejs-projects
 
 - 13.
 
