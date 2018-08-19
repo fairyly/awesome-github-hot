@@ -19,6 +19,9 @@
 
 - 1.1.4awesome-typescript: typescript 资源大全
   - GitHub：https://github.com/dzharii/awesome-typescript
+  
+- 1.1.5Awesome-Hacking：安全研究方面的一些技术与学习资料，包括 Web，服务端，Android，ios，物联网等各种安全领域的资源。
+  - GitHub：https://github.com/Hack-with-Github/Awesome-Hacking
 
 - 2.awesome-vue： vue 极好的资源集合
   - GitHub：https://github.com/vuejs/awesome-vue#readme
