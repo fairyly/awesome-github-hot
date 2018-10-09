@@ -110,6 +110,10 @@
   - http://springcloud.fun/
 
 
+- 21.awesome-selfhosted:
+  - GitHub: https://github.com/Kickball/awesome-selfhosted
+  - https://reddit.com/r/selfhosted
+
 
 
 
