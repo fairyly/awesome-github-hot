@@ -110,7 +110,7 @@
   - http://springcloud.fun/
 
 
-- 21.awesome-selfhosted:
+- 21.awesome-selfhosted:这是可以在本地托管的自由软件网络服务和Web应用程序的列表
   - GitHub: https://github.com/Kickball/awesome-selfhosted
   - https://reddit.com/r/selfhosted
 
