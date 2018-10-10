@@ -114,7 +114,9 @@
   - GitHub: https://github.com/Kickball/awesome-selfhosted
   - https://reddit.com/r/selfhosted
 
-
+- 22.awesome-vscode:
+  - GitHub: https://github.com/viatsko/awesome-vscode
+  - https://viatsko.github.io/awesome-vscode/
 
 
 
