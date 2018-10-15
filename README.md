@@ -39,7 +39,7 @@
   - GitHub： https://github.com/justjavac/awesome-wechat-weapp
 
 - 4.awesome-flutter： flutter 资源集合
- - GitHub：https://github.com/Solido/awesome-flutter
+  - GitHub：https://github.com/Solido/awesome-flutter
 
 - 5.awesome-chrome-devtools：Chrome DevTools 极好的资源集合
   - GitHub：https://github.com/ChromeDevTools/awesome-chrome-devtools#readme
